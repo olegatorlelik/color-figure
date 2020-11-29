@@ -1,0 +1,30 @@
+.circle {
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.square {
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  margin: 0 auto;
+}
+.red {
+  background-color: red;
+}
+.black {
+  background-color: black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+.gray {
+  background-color: gray;
+}
